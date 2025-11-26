@@ -60,6 +60,9 @@ Group 8, Class CC05, Semester 251
 - **Lê Nhật Ánh**
   
 **Supervisor**: Msc.Phan Thị Khánh Vân 
+
 **Institution**: Ho Chi Minh City University of Technology (HCMUT), Faculty of Applied Science 
-**Course**: Probability and Statistics (MT2013), Semester 261 
+
+**Course**: Probability and Statistics (MT2013), Semester 251 
+
 **Completion Date**: November 26, 2025
