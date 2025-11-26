@@ -53,11 +53,11 @@ Feel free to fork and contribute improvements!
 
 Group 8, Class CC05, Semester 251
 
-- **Phan Hà Phương** 
-- **Nguyễn Việt Khoa** 
-- **Hoàng Ngọc Tú Anh**
-- **Phạm Gia Khiêm**
-- **Lê Nhật Ánh**
+- **Phan Hà Phương** (245303)
+- **Nguyễn Việt Khoa**  (2452549)
+- **Hoàng Ngọc Tú Anh** (2452042)
+- **Phạm Gia Khiêm** (2352545)
+- **Lê Nhật Ánh** 2452103
   
 **Supervisor**: Msc.Phan Thị Khánh Vân 
 
