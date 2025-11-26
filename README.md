@@ -58,6 +58,7 @@ Group 8, Class CC05, Semester 251
 - **Hoàng Ngọc Tú Anh**
 - **Phạm Gia Khiêm**
 - **Lê Nhật Ánh**
+  
 **Supervisor**: Msc.Phan Thị Khánh Vân 
 **Institution**: Ho Chi Minh City University of Technology (HCMUT), Faculty of Applied Science 
 **Course**: Probability and Statistics (MT2013), Semester 261 
