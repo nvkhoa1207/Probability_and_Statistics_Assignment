@@ -1,6 +1,6 @@
 # Elite Sports Cars Price Analysis Using Statistical Methods
 
-This repository contains the final report for the group project in the Probability and Statistics course (MT2013) at Ho Chi Minh City University of Technology (HCMUT), Faculty of Computer Science and Engineering. The project explores the relationship between technical specifications, usage characteristics, and market factors of elite sports cars, focusing on predicting the **Price** metric through advanced statistical modeling.
+This repository contains the final report for the group project in the Probability and Statistics course (MT2013) at Ho Chi Minh City University of Technology (HCMUT), Faculty of Applied Science. The project explores the relationship between technical specifications, usage characteristics, and market factors of elite sports cars, focusing on predicting the **Price** metric through advanced statistical modeling.
 
 ## Project Overview
 
