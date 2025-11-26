@@ -18,12 +18,12 @@ This work demonstrates the application of probability and statistics in automoti
 ## File Descriptions
 
 ### BTL_XSTK.pdf
-The complete project report in Vietnamese, including introduction, methodology, data preprocessing, descriptive statistics, inferential analysis, model building, evaluation, and conclusions. It features detailed visualizations, statistical results, and discussions on limitations and future work.
+The complete project report in English, including introduction, methodology, data preprocessing, descriptive statistics, inferential analysis, model building, evaluation, and conclusions. It features detailed visualizations, statistical results, and discussions on limitations and future work.
 
 ### Elite Sports Cars in Data.csv
 The main dataset used for analysis, containing technical specifications, usage information, and market-related attributes of elite sports cars, along with the target variable **Price**.
 
-*Note*: The R script used for data analysis (`Code_BTL.R`) is included in the repository and documented below.
+*Note*: The R script used for data analysis (`Price_Car.R`) is included in the repository and documented below.
 
 ## Requirements
 
