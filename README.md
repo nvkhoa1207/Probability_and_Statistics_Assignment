@@ -47,17 +47,17 @@ To replicate the analysis:
 - Download the dataset from [Kaggle](https://www.kaggle.com/datasets/wlwwwlw/elite-sports-cars-in-data).
 - Run any accompanying scripts (to be added) for statistical computations and visualizations.
 
-Feel free to fork and contribute improvements, such as translating the report to English or adding interactive Jupyter notebooks!
+Feel free to fork and contribute improvements!
 
 ## Authors
 
 Group 8, Class CC05, Semester 251
 
-- **Phan Hà Phương** (MSSV: )
-- **Nguyễn Việt Khoa** (MSSV: 2452549)
+- **Phan Hà Phương** 
+- **Nguyễn Việt Khoa** 
 - **Hoàng Ngọc Tú Anh**
 - **Phạm Gia Khiêm**
-
+- **Lê Nhật Ánh**
 **Supervisor**: Msc.Phan Thị Khánh Vân 
 **Institution**: Ho Chi Minh City University of Technology (HCMUT), Faculty of Applied Science 
 **Course**: Probability and Statistics (MT2013), Semester 261 
