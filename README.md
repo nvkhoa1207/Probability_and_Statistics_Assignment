@@ -42,7 +42,7 @@ To replicate the analysis:
 
 1. Clone the repository: git clone https://github.com/nvkhoa1207/Probability_and_Statistics_Assignment.git
 2. Open `BTL_XSTK.pdf` to read the full report.
-3. Rmarkdown and visualization on Kaggle Markdown link: [Kaggle]().
+3. Rmarkdown and visualization on Kaggle Markdown link: [Kaggle](https://www.kaggle.com/code/nvkhoa1207/probability-and-statistics-assignment-251).
 4. For hands-on exploration:
 - Download the dataset from [Kaggle](https://www.kaggle.com/datasets/wlwwwlw/elite-sports-cars-in-data).
 - Run any accompanying scripts (to be added) for statistical computations and visualizations.
